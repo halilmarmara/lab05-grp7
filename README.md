@@ -20,7 +20,7 @@ Kaimana Furniss & Halil Marmara
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
-
+The top file
 ### 2 - Explain the function of the Constraints file.
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
