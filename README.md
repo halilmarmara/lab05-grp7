@@ -20,8 +20,8 @@ Kaimana Furniss & Halil Marmara
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
-The top file
+The top file combines the functional blocks in the design and maps them to the hardware. In this lab top.v combines circuit_a and circuit_b, assigns switches and LEDs, and matches inputs and outputs.
 ### 2 - Explain the function of the Constraints file.
-
+The Constraints file tells Vivado which FPGA pins match up to inputs and outputs in top.v. 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
 
